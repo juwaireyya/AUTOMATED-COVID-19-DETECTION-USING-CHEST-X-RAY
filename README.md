@@ -12,16 +12,15 @@
     c. line 58: change the path to the directory of the website folder
     
 2. Open command prompt
-  a. Chang the directory to the website folder, by typing [cd C:/<path>/wbsite]
+    a. Chang the directory to the website folder, by typing [cd C:/<path>/wbsite]
   
-  b. Run the "test.py", by typing [python “test.py”]
+    b. Run the "test.py", by typing [python “test.py”]
      
-     i. You may need to install flask packages on your devise before running the website by typing [pip install flask].
+       i. You may need to install flask packages on your devise before running the website by typing [pip install flask].
      
-     ii. Additional python packages and libraries may be needed to be installed in order to run the code properly.
+       ii. Additional python packages and libraries may be needed to be installed in order to run the code properly.
 
 3. Copy the generated HTTP link as shown in the following figure to any browser and explore the website.
-
 
 4. To exit the virtual environment press CTRL+C
 
