@@ -5,10 +5,9 @@
   
     a. line 12: change the file path to website > VGG19.h5
   
-    b. line 53: change the path to the directory of website > data
-     
-     
-     i. if the file did not exist then create a new empty folder with the name of "data"
+    b. line 53: change the path to the directory of website > data 
+      
+        i. if the file did not exist then create a new empty folder with the name of "data"
   
     c. line 58: change the path to the directory of the website folder
     
@@ -28,5 +27,7 @@
 
 **How to run the model?**
 1. Upload the "VGG19.py" to Google Collab.
+
 2. Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
+
 3. Run the python code.
