@@ -7,7 +7,7 @@
   
      b. line 53: change the path to the directory of website > data 
       
-        i. if the file did not exist then create a new empty folder with the name of "data"
+        i. If the file did not exist then create a new empty folder with the name of "data"
   
      c. line 58: change the path to the directory of the website folder
     
