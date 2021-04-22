@@ -1,3 +1,4 @@
+
 # AUTOMATED-COVID-19-DETECTION-USING-CHEST-X-RAY
 
 **How to run the model?**
@@ -29,6 +30,7 @@
        ii. Additional python packages and libraries may be needed to be installed in order to run the code properly.
 
 3. Copy the generated HTTP link as shown in the following figure to any browser and explore the website.
+![لقطة الشاشة 2021-04-23 024602](https://user-images.githubusercontent.com/61123403/115798093-19738380-a3de-11eb-8849-f4e31e6756de.png)
 
 4. To exit the virtual environment press CTRL+C
 
