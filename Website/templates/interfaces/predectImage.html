@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif,Times New Roman;
+}
+.custom-file-input {
+  color: transparent;
+   
+ position: relative;
+  top: 435px;
+  left: 750px;
+
+
+
+}
+.custom-file-input::-webkit-file-upload-button {
+  visibility: hidden;
+
+}
+.custom-file-input::before {
+  content: 'Import Images';
+ 
+  color: black;
+  display: inline-block;
+  background: #C4C4C4;
+  font-size: 20px;
+  text-align: left;
+  margin: 0px -40px;
+  border-radius: 0px;
+  padding: 16px 111px;
+  outline: none;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  cursor: pointer;
+  /*text-shadow: 1px 1px #fff;*/
+  color: #207889;
+        
+    
+}
+
+ .hero-image {
+  background-image: url("image_Pred.png");
+  background-color: #cccccc;
+  height: 680px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+.button {
+  border: none;
+  color: #207889;
+  padding: 20px 92.5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 8px;
+  cursor: 15px;
+  border-radius: 20px;
+  
+  position: absolute;
+  top: 63%;
+  left: 58%;
+
+  background-color: #C4C4C4;
+}
+
+.button1 {
+  border: none;
+  color: #207889;
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: 15px;
+  border-radius: 12px;
+  position: absolute;
+  top: 80%;
+  left: 70%;
+  background-color: #C4C4C4;
+}
+
+
+
+</style>
+</head>
+<body >
+   <div class="hero-image">
+      <button class="button ">Import Image </button>
+         <input type="file" class="custom-file-input" accept="image/png, image/jpeg" id="imge">
+<button onclick="window.location.href='result.html'"; class="button1 button3">Predect</button>
+   </div>
+
+    
+
+</body>
+</html>
