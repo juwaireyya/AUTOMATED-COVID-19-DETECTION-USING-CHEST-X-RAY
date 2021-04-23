@@ -9,7 +9,7 @@ import zipfile
 from keras.preprocessing.image import img_to_array
 
 
-model = keras.models.load_model("C:/model.h5")#path to the model
+model = keras.models.load_model("C:/Website/VGG19.h5")#path to the model
 UPLOAD_FOLDER = os.path.dirname(os.path.realpath(__file__))
 ALLOWED_EXTENSIONS = set(['zip'])
 alloed=set(['png','jpeg','jpg'])
@@ -50,12 +50,12 @@ def uplo():
             zip_file.close()
 
             #count the numer of imges befor adding the new data
-            dir_name='C:/Users/alaa5/Desktop/499/interface/Final_FinalInterface/FinalInterface/data'#pathe to the new dir to stor All the data
+            dir_name='C:/Website/data' #pathe to the new dir to stor All the data
             old_file_count=sum([len(files) for r, d, files in os.walk(dir_name)])
             
             #move all data to the new dir where All the data is stored
             import shutil
-            source_dir = os.path.join('C:/Users/alaa5/Desktop/499/interface/Final_FinalInterface/FinalInterface/', os.path.splitext(file.filename)[0])# pathe to the source_dir where the new data is stored
+            source_dir = os.path.join('C:/website', os.path.splitext(file.filename)[0])# pathe to the source_dir where the new data is stored
             file_names = os.listdir(source_dir)
             for file_name in file_names:
                 shutil.move(os.path.join(source_dir, file_name), dir_name)
