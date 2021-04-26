@@ -6,7 +6,7 @@ The aim of this project is to build a website that will demonstrate the function
 
 
 ## 1. How to run the model?
-- Upload the "VGG19.py" to Google Collab.
+- Upload the `VGG19.py` to Google Collab.
 
 - Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
 
@@ -15,7 +15,7 @@ The aim of this project is to build a website that will demonstrate the function
 
 
 ## 2. How to run the website?
-- Open “test.py” file and change the path of three files:
+- Open `test.py` file and change the path of three files:
   
      - line 12: change the file path to website `VGG19.h5`
   
@@ -29,7 +29,7 @@ The aim of this project is to build a website that will demonstrate the function
      
      - Chang the directory to the website folder, by typing `cd C:/<path>/wbsite`
   
-     - Run the "test.py", by typing `python “test.py” `
+     - Run the "test.py", by typing `python "test.py" `
      
             i. You may need to install flask packages on your devise before running the website by typing [pip install flask].
      
