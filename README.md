@@ -16,13 +16,13 @@ The aim of this project is to build a website that will demonstrate the function
 
 
 ### 2. Website
-- Open `test.py` file and change the path of three files:
+- Open `test.py` file and change the paths of three files:
   
-     - line 12: change the file path to website `VGG19.h5`
+     - line 12: change the path of file `VGG19.h5` 
   
-     - line 53: change the path to the directory of website `data`
+     - line 53: change the path of the folder `data` to the directory where you save the folder
       
-            i. If the file did not exist then create a new empty folder with the name of "data"
+            i. If the folder did not exist then create a new empty folder with the name of "data"
   
      - line 58: change the path to the directory of the website folder
     
@@ -40,7 +40,7 @@ The aim of this project is to build a website that will demonstrate the function
 
     ![لقطة الشاشة 2021-04-23 024602](https://user-images.githubusercontent.com/61123403/115798093-19738380-a3de-11eb-8849-f4e31e6756de.png)
      
-- To exit the virtual environment press `ctrl+C`
+- To exit the virtual environment press `ctrl+ C`
 
 
 ## Contact
