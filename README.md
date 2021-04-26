@@ -13,14 +13,8 @@ The aim of this project is to build a simple website that will demonstrate the f
 2. Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
 
 3. Run the python code.
-
-
-
-
-
-
-
-
+4.
+5.
 **How to run the website?**
 1. Open “test.py” file and change the path of three files:
   
