@@ -18,9 +18,9 @@ The aim of this project is to build a website that will demonstrate the function
 ### 2. Website
 - Open `test.py` file and change the paths of three files:
   
-     - line 12: change the path of file `VGG19.h5` 
+     - line 12: change the path of file `VGG19.h5` to where you save the file
   
-     - line 53: change the path of the folder `data` to the directory where you save the folder
+     - line 53: change the path of the folder `data` to where you save the folder
       
             i. If the folder did not exist then create a new empty folder with the name of "data"
   
