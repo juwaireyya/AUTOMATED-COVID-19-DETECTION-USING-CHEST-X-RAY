@@ -1,5 +1,5 @@
 <p align="center">
-    AUTOMATED-COVID-19-DETECTION-USING-CHEST-X-RAY
+    # AUTOMATED-COVID-19-DETECTION-USING-CHEST-X-RAY
 </p> 
 # 
 The emerging coronavirus (SARS-CoV-2) is part of a series of coronaviruses that infect humans with respiratory diseases. The virus appeared in December of 2019 in China, and the World Health Organization announced its transformation into a global epidemic pandemic that affects many countries in the world. Coronavirus is transmitted through direct contact with an infected person or by touching a surface. Currently, patients of COVID-19 are diagnosed by reverse transcription-polymerase chain reaction (RT-PCR), this test is expensive and requires a professional medical staff to get the result correctly. Therefore, X-ray imaging is the proposed solution which is an automatic support tool that was made to be the first line to diagnose corona infection while taking (RT-PCR) test to confirm the result of the X-ray imaging.
