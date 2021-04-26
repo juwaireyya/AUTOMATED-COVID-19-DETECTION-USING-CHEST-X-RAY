@@ -28,6 +28,7 @@ The aim of this project is to build a simple website that will demonstrate the f
      c. line 58: change the path to the directory of the website folder
     
 2. Open command prompt
+     
      a. Chang the directory to the website folder, by typing [cd C:/<path>/wbsite]
   
      b. Run the "test.py", by typing [python “test.py”]
