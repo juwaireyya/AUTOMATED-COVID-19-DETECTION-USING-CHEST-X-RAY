@@ -7,14 +7,12 @@ The aim of this project is to build a website that will demonstrate the function
 ## STEP To Run:
 
 
-
 ### 1. Model
 - Upload the `VGG19.py` to Google Collab.
 
 - Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
 
 - Run the python code.
-
 
 
 ### 2. Website
@@ -32,7 +30,7 @@ The aim of this project is to build a website that will demonstrate the function
      
      - Chang the directory to the website folder, by typing `cd C:/<path>/wbsite`
   
-     - Run the "test.py", by typing `python "test.py" `
+     - Run the `test.py`, by typing `python "test.py" `
      
             i. You may need to install flask packages on your devise before running the website by typing [pip install flask].
      
@@ -42,12 +40,12 @@ The aim of this project is to build a website that will demonstrate the function
 
     ![لقطة الشاشة 2021-04-23 024602](https://user-images.githubusercontent.com/61123403/115798093-19738380-a3de-11eb-8849-f4e31e6756de.png)
      
-- To exit the virtual environment press `CTRL+C`
+- To exit the virtual environment press `ctrl+C`
 
 
 ## Contact
 
-Do not hesitate to contact with the team members if you have any questions. 
+Do not hesitate to contact with the team members if you have any questions or comments. 
 
 - Juwaireyya Mohammed Aljohani, `juwaireyyaaljohani@gmail.com`
 
