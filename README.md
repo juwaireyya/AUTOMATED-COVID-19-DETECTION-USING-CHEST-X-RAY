@@ -18,6 +18,9 @@ The aim of this project is to build a simple website that will demonstrate the f
 
 
 
+
+
+
 **How to run the website?**
 1. Open “test.py” file and change the path of three files:
   
