@@ -21,23 +21,23 @@ The aim of this project is to build a simple website that will demonstrate the f
 ## How to run the website?
 - Open “test.py” file and change the path of three files:
   
-     a. line 12: change the file path to website > VGG19.h5
+     - line 12: change the file path to website > VGG19.h5
   
-     b. line 53: change the path to the directory of website > data 
+     - line 53: change the path to the directory of website > data 
       
-        i. If the file did not exist then create a new empty folder with the name of "data"
+            i. If the file did not exist then create a new empty folder with the name of "data"
   
-     c. line 58: change the path to the directory of the website folder
+     - line 58: change the path to the directory of the website folder
     
 - Open command prompt
      
-     a. Chang the directory to the website folder, by typing [cd C:/<path>/wbsite]
+     - Chang the directory to the website folder, by typing [cd C:/<path>/wbsite]
   
-     b. Run the "test.py", by typing [python “test.py”]
+     - Run the "test.py", by typing [python “test.py”]
      
-       i. You may need to install flask packages on your devise before running the website by typing [pip install flask].
+            i. You may need to install flask packages on your devise before running the website by typing [pip install flask].
      
-       ii. Additional python packages and libraries may be needed to be installed in order to run the code properly.
+            ii. Additional python packages and libraries may be needed to be installed in order to run the code properly.
 
 - Copy the generated HTTP link as shown in the following figure to any browser and explore the website.
 
