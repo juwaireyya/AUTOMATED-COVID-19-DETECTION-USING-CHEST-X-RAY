@@ -6,6 +6,8 @@ The aim of this project is to build a website that will demonstrate the function
 
 ## STEP To Run:
 
+
+
 ### 1. Model
 - Upload the `VGG19.py` to Google Collab.
 
@@ -15,7 +17,7 @@ The aim of this project is to build a website that will demonstrate the function
 
 
 
-## 2. Website
+### 2. Website
 - Open `test.py` file and change the path of three files:
   
      - line 12: change the file path to website `VGG19.h5`
