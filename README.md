@@ -4,8 +4,9 @@ The emerging coronavirus (SARS-CoV-2) is part of a series of coronaviruses that 
 The aim of this project is to build a website that will demonstrate the functionalities of the algorithm of this project. The wesite still on woking and not realeased yet.The dataset of X-ray images was collected from several public datasets with a total of 4658 chest X-ray images, 2329 of them were COVID-19 X-ray images and the other 2329 X-ray images were a normal chest. The models were chosen after analysis of several studies, seven models were selected which are InceptionResNetV2, InceptionV3, ResNet50, MobileNetV2, DenseNet201, and VGG19, and tested on three different datasets and one of them is our dataset. The result shows that VGG19 has the best performance with an accuracy of 99%. 
 
 
+## STEP To Run:
 
-## 1. How to run the model?
+### 1. Model
 - Upload the `VGG19.py` to Google Collab.
 
 - Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
@@ -14,7 +15,7 @@ The aim of this project is to build a website that will demonstrate the function
 
 
 
-## 2. How to run the website?
+## 2. Website
 - Open `test.py` file and change the path of three files:
   
      - line 12: change the file path to website `VGG19.h5`
