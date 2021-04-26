@@ -17,9 +17,9 @@ The aim of this project is to build a website that will demonstrate the function
 ## 2. How to run the website?
 - Open “test.py” file and change the path of three files:
   
-     - line 12: change the file path to website > VGG19.h5
+     - line 12: change the file path to website `VGG19.h5`
   
-     - line 53: change the path to the directory of website > data 
+     - line 53: change the path to the directory of website `data`
       
             i. If the file did not exist then create a new empty folder with the name of "data"
   
@@ -27,9 +27,9 @@ The aim of this project is to build a website that will demonstrate the function
     
 - Open command prompt
      
-     - Chang the directory to the website folder, by typing [cd C:/<path>/wbsite]
+     - Chang the directory to the website folder, by typing `cd C:/<path>/wbsite`
   
-     - Run the "test.py", by typing [python “test.py”]
+     - Run the "test.py", by typing `python “test.py” `
      
             i. You may need to install flask packages on your devise before running the website by typing [pip install flask].
      
@@ -39,7 +39,7 @@ The aim of this project is to build a website that will demonstrate the function
 
     ![لقطة الشاشة 2021-04-23 024602](https://user-images.githubusercontent.com/61123403/115798093-19738380-a3de-11eb-8849-f4e31e6756de.png)
      
-- To exit the virtual environment press CTRL+C
+- To exit the virtual environment press `CTRL+C`
 
 
 ## Contact
