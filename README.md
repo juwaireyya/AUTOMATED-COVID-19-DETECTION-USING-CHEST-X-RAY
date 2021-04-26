@@ -6,18 +6,20 @@ The aim of this project is to build a simple website that will demonstrate the f
 
 
 
+
+
 ## How to run the model?
-1. Upload the "VGG19.py" to Google Collab.
+- Upload the "VGG19.py" to Google Collab.
 
-2. Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
+- Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
 
-3. Run the python code.
+- Run the python code.
 
 
 
 
 ## How to run the website?
-1. Open “test.py” file and change the path of three files:
+- Open “test.py” file and change the path of three files:
   
      a. line 12: change the file path to website > VGG19.h5
   
@@ -27,7 +29,7 @@ The aim of this project is to build a simple website that will demonstrate the f
   
      c. line 58: change the path to the directory of the website folder
     
-2. Open command prompt
+- Open command prompt
      
      a. Chang the directory to the website folder, by typing [cd C:/<path>/wbsite]
   
@@ -37,11 +39,11 @@ The aim of this project is to build a simple website that will demonstrate the f
      
        ii. Additional python packages and libraries may be needed to be installed in order to run the code properly.
 
-3. Copy the generated HTTP link as shown in the following figure to any browser and explore the website.
+- Copy the generated HTTP link as shown in the following figure to any browser and explore the website.
 
       ![لقطة الشاشة 2021-04-23 024602](https://user-images.githubusercontent.com/61123403/115798093-19738380-a3de-11eb-8849-f4e31e6756de.png)
 
-4. To exit the virtual environment press CTRL+C
+- To exit the virtual environment press CTRL+C
 
 
 # This work done by:
