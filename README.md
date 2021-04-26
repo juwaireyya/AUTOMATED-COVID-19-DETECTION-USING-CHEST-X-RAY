@@ -14,8 +14,8 @@ The aim of this project is to build a simple website that will demonstrate the f
 - Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
 
 - Run the python code.
-
-
+-
+-
 
 
 ## How to run the website?
