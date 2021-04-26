@@ -43,9 +43,7 @@ The aim of this project is to build a simple website that will demonstrate the f
 4. To exit the virtual environment press CTRL+C
 
 
-#
-
-**This work done by:**
+# This work done by:
 
 Juwaireyya Mohammed Aljohani
 
