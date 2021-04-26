@@ -39,10 +39,8 @@ The aim of this project is to build a simple website that will demonstrate the f
             ii. Additional python packages and libraries may be needed to be installed in order to run the code properly.
 
 - Copy the generated HTTP link as shown in the following figure to any browser and explore the website.
-<p align="center">
+
     ![لقطة الشاشة 2021-04-23 024602](https://user-images.githubusercontent.com/61123403/115798093-19738380-a3de-11eb-8849-f4e31e6756de.png)
-</p>
-     
      
 - To exit the virtual environment press CTRL+C
 
