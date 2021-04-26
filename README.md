@@ -5,7 +5,7 @@ The aim of this project is to build a website that will demonstrate the function
 
 
 
-## How to run the model?
+## 1. How to run the model?
 - Upload the "VGG19.py" to Google Collab.
 
 - Chang the path in line 38 and 39 to its current path either stored in Google drive or the local drive.
@@ -14,7 +14,7 @@ The aim of this project is to build a website that will demonstrate the function
 
 
 
-## How to run the website?
+## 2. How to run the website?
 - Open “test.py” file and change the path of three files:
   
      - line 12: change the file path to website > VGG19.h5
