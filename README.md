@@ -5,6 +5,7 @@ The emerging coronavirus (SARS-CoV-2) is part of a series of coronaviruses that 
 The aim of this project is to build a simple website that will demonstrate the functionalities of the algorithm for two users which are radiologist and software manager. The functionality for radiologists is to make predictions for X-ray images. The functionality for the software manager is adding images to the dataset. The dataset of X-ray images was collected from several public datasets with a total of 4658 chest X-ray images, 2329 of them were COVID-19 X-ray images and the other 2329 X-ray images were a normal chest. The models were chosen after analysis of several studies, seven models were selected which are InceptionResNetV2, InceptionV3, ResNet50, MobileNetV2, DenseNet201, and VGG19, and tested on three different datasets and one of them is our dataset. The result shows that VGG19 has the best performance with an accuracy of 99%. 
 
 
+#
 
 **How to run the model?**
 1. Upload the "VGG19.py" to Google Collab.
@@ -40,4 +41,18 @@ The aim of this project is to build a simple website that will demonstrate the f
       ![لقطة الشاشة 2021-04-23 024602](https://user-images.githubusercontent.com/61123403/115798093-19738380-a3de-11eb-8849-f4e31e6756de.png)
 
 4. To exit the virtual environment press CTRL+C
+
+
+**This work done by: **
+
+Juwaireyya Mohammed Aljohani
+
+Razan Mohammed Alsolami
+
+Alaa Abdullah Alotaibi
+
+
+
+
+
 
