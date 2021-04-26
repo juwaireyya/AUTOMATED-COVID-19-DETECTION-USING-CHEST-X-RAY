@@ -46,7 +46,7 @@ The aim of this project is to build a simple website that will demonstrate the f
 
 ## Contact
 
-Do not hesitate to contact with us if you have any questions. 
+Do not hesitate to contact with the team members if you have any questions. 
 
 - Juwaireyya Mohammed Aljohani, juwaireyyaaljohani@gmail.com
 
