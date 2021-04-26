@@ -44,16 +44,20 @@ The aim of this project is to build a simple website that will demonstrate the f
 - To exit the virtual environment press CTRL+C
 
 
-## This work done by:
+## This work done by
 
-Juwaireyya Mohammed Aljohani
+- Juwaireyya Mohammed Aljohani
 
-Razan Mohammed Alsolami
+- Razan Mohammed Alsolami
 
-Alaa Abdullah Alotaibi
+- Alaa Abdullah Alotaibi
 
+## Contact
 
+Do not hesitate to contact with us with the following contacts if you have any questions. 
 
+- juwaireyyaaljohani@gmail.com
 
+- 
 
 
